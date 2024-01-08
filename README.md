@@ -1,2 +1,12 @@
 # D7043E-Miniproject
-Group 20 miniproject in the course D7043E
+Group number:
+20
+
+Members:
+Robert Lindberg (oreile-9@student.ltu.se)
+Anthony Colton (antcol-2@student.ltu.se)
+
+YouTube:
+
+Data:
+All data used can be downloaded within the provided notebook.
