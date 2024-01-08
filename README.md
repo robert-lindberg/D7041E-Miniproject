@@ -4,7 +4,7 @@
 
 ## Members:
 Robert Lindberg (oreile-9@student.ltu.se)
-Anthony Colton (antcol-2@student.ltu.se)
+  Anthony Colton (antcol-2@student.ltu.se)
 
 ## YouTube:
 
